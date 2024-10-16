@@ -1,25 +1,37 @@
-👋 Hi, I’m Mohamed Ahmed Arafat
-💻 Web Developer | BackEnd Developer | Laravel Developer
+# 👋 Hi, I’m **Mohamed Ahmed Arafat**
 
-I am a passionate web developer with a strong focus on finding quick solutions to complex problems. I thrive in collaborative team environments, and have hands-on experience in building full-stack projects using PHP, Laravel, Node.js, AngularJS, HTML, CSS, and JavaScript.
+💻 **Web Developer | BackEnd Developer | Laravel Developer**
 
-Here are a few of the projects I’ve worked on:
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-🏛️ Laravel Library Management System
-🛠️ Appstore APIs Backend (Laravel)
-🏋️‍♂️ Gym Management System Front-End (Angular)
-🛒 EStore Master (Node.js)
-I strive to consistently meet high web design and development standards, and I'm always looking for new opportunities to grow as a Full-Stack Developer.
+I am a passionate web developer with a strong focus on **finding quick solutions** to complex problems. I thrive in **collaborative team environments**, and have extensive experience working on **backend systems** using **PHP** and **Laravel**, along with solid knowledge of **HTML**, **CSS**, **JavaScript**, **Node.js**, and **AngularJS**.
 
-🌟 What I Do
-Languages & Frameworks: PHP, Laravel, Node.js,, React.js AngularJS, HTML, CSS, JavaScript
-Specialization: Full-stack web development, problem-solving, and building efficient, scalable systems
-👀 Interested In
-Full-stack web development opportunities
-Working on innovative and dynamic web projects
-Exploring new technologies to expand my skill set
-📫 Get in Touch
-💬 WhatsApp: 966543571138
+### 🌟 **Projects I've Worked On**  
+- 🏛️ **Laravel Library Management System**  
+- 🛠️ **Appstore APIs Backend (Laravel)**  
+- 🏋️‍♂️ **Gym Management System Front-End (Angular)**  
+- 🛒 **EStore Master (Node.js)**
+
+I specialize in backend development, particularly with **Laravel**, and always aim to meet high standards in web development. I'm eager to take on new challenges and grow in my role as a **BackEnd Developer**.
+
+---
+
+### 👀 **What I Do**
+- **Languages & Frameworks**: PHP, Laravel, Node.js, AngularJS, HTML, CSS, JavaScript  
+- **Specialization**: Back-end development, API integrations, and creating scalable web systems
+
+---
+
+### 🚀 **Interested In**  
+- Back-end development opportunities  
+- Full-stack web development roles  
+- Innovating new features and improving system performance
+
+---
+
+### 📫 **Get in Touch**
+- 💬 WhatsApp: [966543571138](https://wa.me/966543571138)
+
 <!---
 Arafat77mo/Arafat77mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
