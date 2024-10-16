@@ -45,10 +45,6 @@ Here are a few projects that demonstrate my skills:
 
 ---
 
-### 📊 **Stats & Contributions**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arafat77mo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat77mo&layout=compact&theme=radical)
 
 ---
 
