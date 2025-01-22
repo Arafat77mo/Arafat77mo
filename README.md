@@ -1,67 +1,59 @@
 # 👋 Hi, I’m **Mohamed Ahmed Arafat**
 
-💻 **Web Developer | BackEnd Developer | Laravel Developer | React Developer**
+💻 **Web Developer | Laravel & React Developer**
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-I’m a passionate **Full-Stack Web Developer** focused on solving problems and delivering clean, efficient code. With strong expertise in **BackEnd** technologies like **PHP** and **Laravel**, and experience in modern front-end frameworks like **React** and **AngularJS**, I enjoy building dynamic and scalable web applications.
+I am a dedicated **Full-Stack Web Developer** with a strong focus on backend development and a passion for creating efficient, scalable, and user-friendly web applications. My expertise lies in building robust APIs, crafting seamless user experiences, and implementing modern development practices. I thrive in collaborative environments and enjoy solving challenging problems through code.
 
-💡 **What I Bring to the Table:**
-- 💻 **Backend Expertise**: PHP, Laravel, Node.js
-- 🌐 **Frontend Skills**: React, AngularJS, HTML, CSS, JavaScript
-- 🚀 **Dev Tools**: Git, MySQL, API Integrations
-
----
-
-### 🚀 **Tech Stack**
-| **Backend**       | **Frontend**         | **Tools & DevOps** |
-|-------------------|----------------------|--------------------|
-| PHP               | React                | Git                |
-| Laravel           | AngularJS            | MySQL              |
-| Node.js           | HTML/CSS             | API Development    |
-| REST APIs         | JavaScript (ES6+)     | Version Control    |
+### 💡 **Core Skills and Expertise**
+- **Backend Development**: PHP, Laravel, Node.js, REST APIs  
+- **Frontend Development**: React, AngularJS, HTML5, CSS3, JavaScript (ES6+)  
+- **Tools & DevOps**: Git, MySQL, API Integration, Version Control  
 
 ---
 
-### 🌟 **Highlighted Projects**
+## 🚀 **Tech Stack**
 
-Here are a few projects that demonstrate my skills:
-
-- 🏛️ **Laravel Library Management System**  
-  Developed a complete library management system using **Laravel** for backend processing.
-
-- 🛠️ **Appstore APIs Backend (Laravel)**  
-  Built robust backend APIs for an app store using **Laravel**.
-
-- 🏋️‍♂️ **Gym Management System Front-End (Angular)**  
-  Designed the front-end of a gym management system using **AngularJS**.
-
-- 🛒 **EStore Master (Node.js)**  
-  Developed a comprehensive e-commerce backend with **Node.js** and RESTful APIs.
+| **Backend Technologies** | **Frontend Technologies** | **Tools & Platforms**  |
+|---------------------------|---------------------------|-------------------------|
+| PHP                       | React                    | Git                     |
+| Laravel                   |                          | MySQL                   |
+| Node.js                   | HTML/CSS                 | API Development         |
+| RESTful APIs              | JavaScript (ES6+)        | Version Control Systems |
 
 ---
 
+## 🌟 **Highlighted Projects**
+
+Here are some key projects showcasing my technical expertise:
+
+### 🏛️ **real-estate-api** (Laravel)  
+Developed a fully-featured Real Estate API using Laravel, enabling advanced property listing, user management, and seamless integration with frontend applications. Designed for scalability and performance, the API supports filtering, searching, and managing real estate properties efficiently.
+### 🛠️ **Appstore Backend APIs** (Laravel)  
+Designed and developed scalable APIs for a mobile app store backend using **Laravel**, enabling seamless integration with client apps.
+
+### 🛒 **E-Commerce Backend** (Node.js)  
+Built a robust e-commerce backend with **Node.js**, incorporating RESTful APIs for seamless communication with the frontend.
 
 ---
 
-### 👀 **Looking For:**
-- Full-stack web development opportunities  
-- Exciting projects involving **React**, **Laravel**, or **Node.js**  
-- Collaborative, innovative teams that focus on modern web development
+## 👀 **What I’m Looking For**
+- Exciting full-stack or backend development roles  
+- Projects involving **Laravel**, **React**, or **Node.js**  
+- Opportunities to work with innovative and collaborative teams  
 
 ---
 
-### 📫 **Contact Me**
-- 💬 WhatsApp: [966543571138](https://wa.me/966543571138)
-- 📧 Email: mohammed.poop444@gmail.com
+## 📫 **Contact Me**
+- 💬 **WhatsApp**: [+966543571138](https://wa.me/966543571138)  
+- 📧 **Email**: [mohammed.poop444@gmail.com](mailto:mohammed.poop444@gmail.com)  
+- 🌐 **Portfolio**: [Coming Soon]  
 
 ---
 
-<!---
-Arafat77mo/Arafat77mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my profile! 🚀 Let's connect and collaborate!  
