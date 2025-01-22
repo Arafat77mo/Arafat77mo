@@ -31,8 +31,8 @@ I’m a passionate **Full-Stack Web Developer** focused on solving problems and 
 
 Here are a few projects that demonstrate my skills:
 
-- 🏛️ **Laravel Library Management System**  
-  Developed a complete library management system using **Laravel** for backend processing.
+### 🏛️ **real-estate-api** (Laravel)  
+Developed a fully-featured Real Estate API using Laravel, enabling advanced property listing, user management, and seamless integration with frontend applications. Designed for scalability and performance, the API supports filtering, searching, and managing real estate properties efficiently.
 
 - 🛠️ **Appstore APIs Backend (Laravel)**  
   Built robust backend APIs for an app store using **Laravel**.
